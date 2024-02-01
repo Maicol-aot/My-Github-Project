@@ -1,0 +1,2 @@
+Here is a new text document wich is going to be in the main branch in my remote repo in 
+GitHub
